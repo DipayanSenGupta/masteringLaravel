@@ -1,0 +1,4 @@
+suites:
+  default:
+    namespace: App\\
+formatter.name: pretty
