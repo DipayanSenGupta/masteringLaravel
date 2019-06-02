@@ -1,4 +1,7 @@
 suites:
-  default:
-    namespace: App\\
+    default:
+        namespace: App
+        psr4_prefix: App
+        src_path: src/App
+        spec_path: spec/App
 formatter.name: pretty
